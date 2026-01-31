@@ -83,19 +83,6 @@
 
 ---
 
-<table width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" bgcolor="#ffffff" style="padding:10px 0;">
-      <a href="https://www.tech4good.pl">
-        <img
-          alt="Tech4good modern banner"
-          width="900"
-          src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxMjAwJyBoZWlnaHQ9JzIyMCcgdmlld0JveD0nMCAwIDEyMDAgMjIwJz4KICA8cmVjdCB3aWR0aD0nMTIwMCcgaGVpZ2h0PScyMjAnIGZpbGw9J3doaXRlJy8+CiAgPHJlY3QgeD0nNzAnIHk9JzcwJyB3aWR0aD0nMzMwJyBoZWlnaHQ9JzgwJyByeD0nNDAnIGZpbGw9JyMzQjgyRjYnIG9wYWNpdHk9JzAuMTQnLz4KICA8cmVjdCB4PSczNDAnIHk9JzYwJyB3aWR0aD0nNDIwJyBoZWlnaHQ9JzEwMCcgcng9JzUwJyBmaWxsPScjMTBCOTgxJyBvcGFjaXR5PScwLjEyJy8+CiAgPHJlY3QgeD0nNzAwJyB5PSc3NScgd2lkdGg9JzM4MCcgaGVpZ2h0PSc3MCcgcng9JzM1JyBmaWxsPScjMEVBNUU5JyBvcGFjaXR5PScwLjE0Jy8+CiAgPGNpcmNsZSBjeD0nMTQwJyBjeT0nMTEwJyByPSc1JyBmaWxsPScjM0I4MkY2Jy8+CiAgPGNpcmNsZSBjeD0nMTcwJyBjeT0nMTEwJyByPSc1JyBmaWxsPScjM0I4MkY2Jy8+CiAgPGNpcmNsZSBjeD0nMjAwJyBjeT0nMTEwJyByPSc1JyBmaWxsPScjM0I4MkY2Jy8+CiAgPGxpbmUgeDE9JzIzMCcgeTE9JzExMCcgeDI9JzUyMCcgeTI9JzExMCcgc3Ryb2tlPScjM0I4MkY2JyBzdHJva2Utd2lkdGg9JzQnIG9wYWNpdHk9JzAuNScvPgogIDxsaW5lIHgxPSc1MjAnIHkxPScxMTAnIHgyPSc3NzAnIHkyPScxMTAnIHN0cm9rZT0nIzEwQjk4MScgc3Ryb2tlLXdpZHRoPSc0JyBvcGFjaXR5PScwLjUnLz4KICA8bGluZSB4MT0nNzcwJyB5MT0nMTEwJyB4Mj0nMTAzMCcgeTI9JzExMCcgc3Ryb2tlPScjMEVBNUU5JyBzdHJva2Utd2lkdGg9JzQnIG9wYWNpdHk9JzAuNScvPgogIDxjaXJjbGUgY3g9JzEwMzAnIGN5PScxMTAnIHI9JzYnIGZpbGw9JyMwRUE1RTknLz4KICA8Y2lyY2xlIGN4PScxMDYwJyBjeT0nMTEwJyByPSc2JyBmaWxsPScjMEVBNUU5Jy8+CiAgPGNpcmNsZSBjeD0nMTA5MCcgY3k9JzExMCcgcj0nNicgZmlsbD0nIzBFQTVFOScvPgo8L3N2Zz4="
-        />
-      </a>
-    </td>
-  </tr>
-</table>
 <div align="center">
   <strong>Tech4Good — Digital innovation for NGOs, education and culture.</strong>
 </div>
