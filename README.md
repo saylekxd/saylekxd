@@ -1,9 +1,15 @@
-# Tech4good — software house for NGOs, culture & education
+# tech4good — software house for NGOs, culture & education
 
 <div align="center">
+  <p>
+    <a href="https://www.tech4good.pl">
+      <img src="https://www.tech4good.pl/logos/tech4cities.png" alt="Tech4good banner" width="960" />
+    </a>
+  </p>
   <p><strong>Innowacje cyfrowe, które skalują wpływ organizacji społecznych.</strong></p>
   <p>Łączymy strategię, finansowanie i technologię: tworzymy platformy edukacyjne, archiwa kultury, narzędzia fundraisingowe i analitykę impactu.</p>
   <p>
+    <a href="https://www.tech4good.pl">tech4good.pl</a> ·
     <a href="#rozwiazania">Rozwiązania</a> ·
     <a href="#jak-pracujemy">Jak pracujemy</a> ·
     <a href="#projekty">Projekty</a> ·
@@ -75,6 +81,7 @@
 
 <a id="kontakt"></a>
 
+- **Strona:** https://www.tech4good.pl
 - **Adres:** ul. Wiejska 1C, 44-200 Rybnik
 - **Konsultacja:** 30-minutowe spotkanie online (Google Meet)
 - **Napisz do nas:** opisz potrzeby organizacji, a przygotujemy kierunki wsparcia, finansowanie i plan wdrożenia
