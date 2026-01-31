@@ -1,4 +1,4 @@
-# Tech4good — software house for NGOs, culture & education
+# tech4good — software house for NGOs, culture & education
 
 <div align="center">
   <p><strong>Innowacje cyfrowe, które skalują wpływ organizacji społecznych.</strong></p>
@@ -83,13 +83,15 @@
 
 ---
 
-<div align="center">
-  <p>
-    <a href="https://www.tech4good.pl" style="text-decoration:none;">
-      <span style="display:inline-block;background:#ffffff;padding:10px 16px;border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" bgcolor="#ffffff" style="padding:14px 0;">
+      <a href="https://www.tech4good.pl">
         <img src="https://www.tech4good.pl/logos/tech4cities.png" alt="Tech4good logo" width="240" />
-      </span>
-    </a>
-  </p>
+      </a>
+    </td>
+  </tr>
+</table>
+<div align="center">
   <strong>Tech4Good — Digital innovation for NGOs, education and culture.</strong>
 </div>
