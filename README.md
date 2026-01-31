@@ -5,6 +5,7 @@
   <p>Łączymy strategię, finansowanie i technologię: tworzymy platformy edukacyjne, archiwa kultury, narzędzia fundraisingowe i analitykę impactu.</p>
   <p>
     <a href="https://www.tech4good.pl">tech4good.pl</a> ·
+    <a href="#technologie">Technologie</a> ·
     <a href="#rozwiazania">Rozwiązania</a> ·
     <a href="#jak-pracujemy">Jak pracujemy</a> ·
     <a href="#projekty">Projekty</a> ·
@@ -14,6 +15,7 @@
     <img src="https://img.shields.io/badge/Focus-NGO%20%26%20Culture-3B82F6" alt="Focus: NGOs and Culture" />
     <img src="https://img.shields.io/badge/Scope-Education%20%7C%20Fundraising%20%7C%20Data-10B981" alt="Scope: Education, Fundraising, Data" />
     <img src="https://img.shields.io/badge/Delivery-Strategy%20%2B%20Build%20%2B%20Support-0EA5E9" alt="Delivery: Strategy, Build, Support" />
+    <img src="https://img.shields.io/badge/Tech-React%20%7C%20React%20Native%20%7C%20IoT-8B5CF6" alt="Tech: React, React Native, IoT" />
   </p>
 </div>
 
@@ -25,6 +27,22 @@
 - Technologia: przyjazne w użyciu rozwiązania low-code i open source
 - Współprojektowanie: pracujemy z zespołami NGO, wolontariuszami i partnerami
 - Skalowalność: architektura gotowa na granty, integracje i rozwój
+
+---
+
+## Technologie
+
+<a id="technologie"></a>
+
+| Obszar | Technologie |
+|---|---|
+| **Aplikacje mobilne** | React Native, Expo |
+| **Aplikacje webowe** | React, Next.js, TypeScript |
+| **Backend & bazy danych** | Node.js, Supabase, PostgreSQL |
+| **IoT & embedded** | ESP32, Arduino, czujniki środowiskowe, protokoły MQTT/HTTP |
+| **Inne** | Python, integracje API, automatyzacje no-code/low-code |
+
+> 💡 Dobieramy technologię do potrzeb projektu — od prostych rozwiązań no-code po zaawansowane systemy IoT. Pracujemy również z innymi frameworkami i językami w zależności od wymagań.
 
 ---
 
