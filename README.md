@@ -1,4 +1,4 @@
-# tech4good — software house for NGOs, culture & education
+# Tech4good — software house for NGOs, culture & education
 
 <div align="center">
   <p><strong>Innowacje cyfrowe, które skalują wpływ organizacji społecznych.</strong></p>
