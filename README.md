@@ -1,4 +1,4 @@
-# tech4good — software house for NGOs, culture & education
+# Tech4good — software house for NGOs, culture & education
 
 <div align="center">
   <p><strong>Innowacje cyfrowe, które skalują wpływ organizacji społecznych.</strong></p>
@@ -85,9 +85,13 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" bgcolor="#ffffff" style="padding:14px 0;">
+    <td align="center" bgcolor="#ffffff" style="padding:10px 0;">
       <a href="https://www.tech4good.pl">
-        <img src="https://www.tech4good.pl/logos/tech4cities.png" alt="Tech4good logo" width="240" />
+        <img
+          alt="Tech4good modern banner"
+          width="900"
+          src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='220' viewBox='0 0 1200 220'><rect width='1200' height='220' fill='white'/><rect x='70' y='70' width='330' height='80' rx='40' fill='%233B82F6' opacity='0.14'/><rect x='340' y='60' width='420' height='100' rx='50' fill='%2310B981' opacity='0.12'/><rect x='700' y='75' width='380' height='70' rx='35' fill='%230EA5E9' opacity='0.14'/><circle cx='140' cy='110' r='5' fill='%233B82F6'/><circle cx='170' cy='110' r='5' fill='%233B82F6'/><circle cx='200' cy='110' r='5' fill='%233B82F6'/><line x1='230' y1='110' x2='520' y2='110' stroke='%233B82F6' stroke-width='4' opacity='0.5'/><line x1='520' y1='110' x2='770' y2='110' stroke='%2310B981' stroke-width='4' opacity='0.5'/><line x1='770' y1='110' x2='1030' y2='110' stroke='%230EA5E9' stroke-width='4' opacity='0.5'/><circle cx='1030' cy='110' r='6' fill='%230EA5E9'/><circle cx='1060' cy='110' r='6' fill='%230EA5E9'/><circle cx='1090' cy='110' r='6' fill='%230EA5E9'/></svg>"
+        />
       </a>
     </td>
   </tr>
