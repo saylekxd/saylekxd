@@ -67,32 +67,25 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Jak pracujemy
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p>01 / ROZMOWA</p>
-      <p><strong>Najpierw poznajemy potrzeby.</strong></p>
-      <p>Rozmawiamy o misji, zespole i procesach, które chcesz usprawnić.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p>02 / PLAN</p>
-      <p><strong>Ustalamy, co i jak zbudować.</strong></p>
-      <p>Łączymy zakres, budżet i harmonogram z możliwościami finansowania.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p>03 / WDROŻENIE</p>
-      <p><strong>Oddajemy narzędzia w ręce zespołu.</strong></p>
-      <p>Projektujemy, budujemy i wdrażamy rozwiązanie. Szkolimy użytkowników.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p>04 / ROZWÓJ</p>
-      <p><strong>Wspieramy kolejne kroki.</strong></p>
-      <p>Pomagamy utrzymać narzędzia, automatyzować pracę i oceniać rezultaty.</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/01.svg" alt="Etap 1:" width="28" height="20"> &nbsp;<strong>Rozmowa</strong><br>
+  Poznajemy misję, zespół i potrzeby Twojej organizacji.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/02.svg" alt="Etap 2:" width="28" height="20"> &nbsp;<strong>Plan</strong><br>
+  Ustalamy zakres, budżet, harmonogram i możliwości finansowania.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/03.svg" alt="Etap 3:" width="28" height="20"> &nbsp;<strong>Wdrożenie</strong><br>
+  Projektujemy, budujemy i wdrażamy narzędzia. Szkolimy zespół.
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/04.svg" alt="Etap 4:" width="28" height="20"> &nbsp;<strong>Rozwój</strong><br>
+  Utrzymujemy rozwiązanie, automatyzujemy pracę i sprawdzamy rezultaty.
+</p>
 
 <a id="technologie"></a>
 
