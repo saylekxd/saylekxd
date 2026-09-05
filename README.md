@@ -1,106 +1,124 @@
-# Tech4good — software house for NGOs, culture & education
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech4good-banner.png" alt="tech4good — Technologia, która wspiera ludzi. NGO, edukacja, kultura." width="100%">
+</p>
 
-<div align="center">
-  <p><strong>Innowacje cyfrowe, które skalują wpływ organizacji społecznych.</strong></p>
-  <p>Łączymy strategię, finansowanie i technologię: tworzymy platformy edukacyjne, archiwa kultury, narzędzia fundraisingowe i analitykę impactu.</p>
-  <p>
-    <a href="https://www.tech4good.pl">tech4good.pl</a> ·
-    <a href="#technologie">Technologie</a> ·
-    <a href="#rozwiazania">Rozwiązania</a> ·
-    <a href="#jak-pracujemy">Jak pracujemy</a> ·
-    <a href="#projekty">Projekty</a> ·
-    <a href="#kontakt">Kontakt</a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Focus-NGO%20%26%20Culture-3B82F6" alt="Focus: NGOs and Culture" />
-    <img src="https://img.shields.io/badge/Scope-Education%20%7C%20Fundraising%20%7C%20Data-10B981" alt="Scope: Education, Fundraising, Data" />
-    <img src="https://img.shields.io/badge/Delivery-Strategy%20%2B%20Build%20%2B%20Support-0EA5E9" alt="Delivery: Strategy, Build, Support" />
-    <img src="https://img.shields.io/badge/Tech-React%20%7C%20React%20Native%20%7C%20IoT-8B5CF6" alt="Tech: React, React Native, IoT" />
-  </p>
-</div>
+<h1 align="center">Technologia, która wspiera ludzi.</h1>
+
+<p align="center">
+  Tworzymy aplikacje i narzędzia dla organizacji społecznych, edukacji i kultury.<br>
+  <strong>Łączymy strategię, finansowanie i technologię — od pomysłu po działające rozwiązanie.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.tech4good.pl">Poznaj tech4good</a> &nbsp; / &nbsp;
+  <a href="#rozwiazania">Rozwiązania</a> &nbsp; / &nbsp;
+  <a href="#projekty">Projekty</a> &nbsp; / &nbsp;
+  <a href="#technologie">Technologie</a> &nbsp; / &nbsp;
+  <a href="#kontakt">Porozmawiajmy</a>
+</p>
 
 ---
 
-## Dlaczego tech4good?
+## Dobre pomysły zasługują na dobre narzędzia
 
-- Misja i wpływ: technologia wzmacnia programy społeczne i edukacyjne
-- Technologia: przyjazne w użyciu rozwiązania low-code i open source
-- Współprojektowanie: pracujemy z zespołami NGO, wolontariuszami i partnerami
-- Skalowalność: architektura gotowa na granty, integracje i rozwój
+Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekładać misję na rozwiązania cyfrowe. Projektujemy razem z ludźmi, którzy będą z nich korzystać: koordynatorami, edukatorami, wolontariuszami i odbiorcami działań.
 
----
-
-## Technologie
-
-<a id="technologie"></a>
-
-| Obszar | Technologie |
-|---|---|
-| **Aplikacje mobilne** | React Native, Expo |
-| **Aplikacje webowe** | React, Next.js, TypeScript |
-| **Backend & bazy danych** | Node.js, Supabase, PostgreSQL |
-| **IoT & embedded** | ESP32, Arduino, czujniki środowiskowe, protokoły MQTT/HTTP |
-| **Inne** | Python, integracje API, automatyzacje no-code/low-code |
-
-> 💡 Dobieramy technologię do potrzeb projektu — od prostych rozwiązań no-code po zaawansowane systemy IoT. Pracujemy również z innymi frameworkami i językami w zależności od wymagań.
-
----
-
-## Rozwiązania
+**Mniej ręcznej pracy. Łatwiejszy dostęp do wiedzy. Więcej przestrzeni na działanie.** To kierunek, w którym rozwijamy nasze produkty i współpracę z organizacjami.
 
 <a id="rozwiazania"></a>
 
-| Obszar | Co dostarczamy | Dla kogo |
-|---|---|---|
-| **Platformy edukacyjne (LXP/LMS)** | Ścieżki rozwoju, certyfikacje, mikro‑learning wideo/podcast, integracje (Teams, Classroom), WCAG 2.2 | NGO, edukacja |
-| **Cyfrowe archiwa kultury** | Digitalizacja 2D/3D, metadane, workflow publikacji, storytelling (AR/VR), hosting i szkolenia | Instytucje kultury |
-| **Zarządzanie wolontariatem** | Rekrutacja RODO, onboarding, grafiki dyżurów, powiadomienia SMS/push, moduły ewaluacji | NGO |
-| **Fundraising i darczyńcy** | Płatności jednorazowe i cykliczne, CRM darczyńców, automatyzacje, raporty KPI | NGO |
-| **Kultura danych i insightów** | Dashboardy impactu, monitoring projektów, raporty grantowe (SDG/ESG) | NGO, kultura |
+## Co budujemy
 
----
-
-## Jak pracujemy
-
-<a id="jak-pracujemy"></a>
-
-1. **Diagnoza misji i potrzeb** — warsztaty z zespołem NGO, mapowanie programów i beneficjentów  
-2. **Projekt grantowy i produktowy** — dobór narzędzi, backlog, budżet gotowy do wniosku  
-3. **Wdrożenie i szkolenia** — konfiguracja, onboarding zespołu i partnerów  
-4. **Impact i rozwój** — raportowanie wpływu, automatyzacje, skalowanie  
-
----
-
-## Projekty
+| &nbsp; | Obszar | W czym pomagamy |
+| :---: | --- | --- |
+| **01** | **Edukacja i rozwój** | Platformy szkoleniowe, ścieżki nauki, certyfikacja i współpraca zespołów. |
+| **02** | **Kultura i dziedzictwo** | Cyfrowe archiwa, kolekcje multimedialne, interaktywne mapy i opowieści. |
+| **03** | **Codzienna praca NGO** | Zarządzanie projektami, wolontariatem, komunikacją i relacjami z darczyńcami. |
+| **04** | **Finansowanie i dane** | Narzędzia grantowe, monitoring działań, dashboardy i raportowanie. |
+| **05** | **AI i automatyzacje** | Integracje, wsparcie pracy z treścią i rozwiązania dopasowane do konkretnego procesu. |
 
 <a id="projekty"></a>
 
-- **Śląskie Ślady — Cyfrowe Archiwum**: platforma do zachowania i udostępniania dziedzictwa (audio/wideo, mapa, 3D)
-- **MRM — platforma edukacyjna**: logowanie, zarządzanie projektami, budżety i współpraca zespołów
-- **Taily — wsparcie psychologiczne**: interaktywne czytanie z modułem AI wspierającym terapeutów
-- **Ekoinnowacje — NGO klimatyczne**: mapy inicjatyw, raportowanie wskaźników i katalog partnerów
+## Od idei do działających projektów
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Platforma SWT</h3>
+      <p>Publiczna strona stowarzyszenia i przestrzeń pracy zespołu: granty, projekty, zadania, marketing oraz rozliczenia.</p>
+      <p><strong>Organizacja · Współpraca · Automatyzacja</strong></p>
+      <a href="https://www.stowarzyszenieswt.pl">Zobacz platformę →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Platforma edukacyjna MRM</h3>
+      <p>Aplikacja dla młodzieżowych rad wspierająca prowadzenie projektów, planowanie budżetów i pracę zespołową.</p>
+      <p><strong>Edukacja · Młodzież · Samorządność</strong></p>
+      <a href="https://www.tech4good.pl/pl#projects">Poznaj projekt →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Śląskie Ślady</h3>
+      <p>Cyfrowe archiwum dziedzictwa Śląska: zdjęcia, dokumenty, nagrania, interaktywna mapa i obiekty 3D.</p>
+      <p><strong>Dziedzictwo · Dostęp · Pamięć</strong></p>
+      <a href="https://www.tech4good.pl/pl#projects">Poznaj projekt →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AI-Bajka</h3>
+      <p>Interaktywny narrator spektaklu dla dzieci. Aplikacja AI z osobowością osadzoną w świecie przedstawienia.</p>
+      <p><strong>Teatr · AI · Interakcja</strong></p>
+      <a href="https://www.tech4good.pl/pl#projects">Poznaj projekt →</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.tech4good.pl/pl#projects"><strong>Więcej realizacji i referencji na naszej stronie ↗</strong></a>
+</p>
+
+## Jak pracujemy
+
+**01 / Rozumiemy potrzeby**<br>
+Zaczynamy od misji organizacji, rozmowy z zespołem i procesów, które wymagają wsparcia.
+
+**02 / Układamy projekt i finansowanie**<br>
+Dobieramy zakres, narzędzia oraz budżet. Wspieramy przygotowanie projektu grantowego.
+
+**03 / Projektujemy i wdrażamy**<br>
+Budujemy rozwiązanie, integrujemy je z pracą organizacji i szkolimy zespół.
+
+**04 / Wspieramy dalszy rozwój**<br>
+Pomagamy utrzymać narzędzia, automatyzować procesy i analizować rezultaty.
+
+<a id="technologie"></a>
+
+## Nasz warsztat
+
+| Web | Mobile | Dane i backend | Integracje i urządzenia |
+| --- | --- | --- | --- |
+| React · Next.js | React Native · Expo | Supabase · PostgreSQL | API · Python |
+| TypeScript | iOS · Android | Node.js | ESP32 · Arduino · MQTT |
+
+Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także z narzędzi open source oraz rozwiązań low-code i no-code. W projektowaniu uwzględniamy dostępność, prostotę obsługi i późniejsze utrzymanie.
 
 ---
-
-## Współpraca
-
-- Audyt cyfrowy i roadmapa transformacji
-- Partnerstwa grantowe i konsultacje wniosków
-- Wdrożenia, integracje i wsparcie zespołu
-
----
-
-## Kontakt
 
 <a id="kontakt"></a>
 
-- **Strona:** https://www.tech4good.pl
-- **Adres:** ul. Wiejska 1C, 44-200 Rybnik
-- **Konsultacja:** 30-minutowe spotkanie online (Google Meet)
-- **Napisz do nas:** opisz potrzeby organizacji, a przygotujemy kierunki wsparcia, finansowanie i plan wdrożenia
+## Masz pomysł na coś dobrego?
 
----
+Opowiedz nam, komu ma służyć projekt i co dziś utrudnia działanie. Wspólnie ustalimy, od czego zacząć — od konsultacji, wsparcia grantowego czy budowy aplikacji.
 
-<div align="center">
-  <strong>Tech4Good — Digital innovation for NGOs, education and culture.</strong>
-</div>
+<p>
+  <a href="https://www.tech4good.pl/pl#contact"><strong>Porozmawiajmy o współpracy →</strong></a>
+</p>
+
+<p>
+  Rybnik, ul. Wiejska 1C · Współpraca z NGO, edukacją i kulturą
+</p>
+
+<p align="center">
+  <strong>tech4good</strong><br>
+  Digital innovation for NGOs, education and culture.<br>
+  <a href="https://www.tech4good.pl">www.tech4good.pl</a>
+</p>
