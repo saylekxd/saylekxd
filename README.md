@@ -61,6 +61,16 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
   <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka-slim.svg" alt="AI-Bajka — teatr, AI i interakcja. Fragment interfejsu projektu." width="100%">
 </picture></a>
 
+<a href="https://familokirybnika.pl/"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-familoki-rybnika-slim-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-familoki-rybnika-slim.svg" alt="Familoki Rybnika — pamięć mieszkańców i miejsca. Fragment strony projektu." width="100%">
+</picture></a>
+
+<a href="https://jastrzebie1980.pl/"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-jastrzebie1980-slim-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-jastrzebie1980-slim.svg" alt="Jastrzębie 1980 — Śląska droga do Solidarności. Fragment strony projektu." width="100%">
+</picture></a>
+
 <p align="center">
   <a href="https://www.tech4good.pl/pl#projects"><strong>Więcej realizacji i referencji na naszej stronie ↗</strong></a>
 </p>

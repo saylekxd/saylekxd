@@ -4,7 +4,7 @@ from base64 import b64encode
 from xml.sax.saxutils import escape
 
 root=Path(__file__).resolve().parents[1]
-projects=[('swt','Platforma SWT','Projekty, granty i zespół'),('mrm','Edukacja MRM','Platforma młodzieżowych rad'),('slaskie-slady','Śląskie Ślady','Cyfrowe archiwum regionu'),('ai-bajka','AI-Bajka','Interaktywny narrator teatralny')]
+projects=[('swt','Platforma SWT','Projekty, granty i zespół'),('mrm','Edukacja MRM','Platforma młodzieżowych rad'),('slaskie-slady','Śląskie Ślady','Cyfrowe archiwum regionu'),('ai-bajka','AI-Bajka','Interaktywny narrator teatralny'),('familoki-rybnika','Familoki Rybnika','Pamięć mieszkańców i miejsca'),('jastrzebie1980','Jastrzębie 1980','Śląska droga do Solidarności')]
 for slug,title,caption in projects:
     screenshot=b64encode((root/f'assets/screenshots/{slug}.jpg').read_bytes()).decode()
     for mobile in [False,True]:
