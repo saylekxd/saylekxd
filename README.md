@@ -41,13 +41,13 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Od idei do działających projektów
 
-<a href="https://www.stowarzyszenieswt.pl"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-swt.svg" alt="Platforma SWT — zadania, granty, projekty, marketing i rozliczenia." width="100%"></a>
+<p align="center">
+  <a href="https://www.stowarzyszenieswt.pl"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-swt-v2.webp" alt="Platforma SWT — projekty, granty i praca zespołu. Zobacz platformę." width="48%"></a>&nbsp;&nbsp;<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-mrm-v2.webp" alt="Edukacja MRM — młodzież, wiedza i współpraca. Poznaj projekt." width="48%"></a>
+</p>
 
-<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-mrm.svg" alt="Edukacja MRM — nauka, projekty, budżety i współpraca młodzieżowych rad." width="100%"></a>
-
-<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-slaskie-slady.svg" alt="Śląskie Ślady — cyfrowe archiwum, mapa, zdjęcia, dokumenty i multimedia." width="100%"></a>
-
-<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka.svg" alt="AI-Bajka — interaktywny narrator AI w spektaklu dla dzieci." width="100%"></a>
+<p align="center">
+  <a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-slaskie-slady-v2.webp" alt="Śląskie Ślady — dziedzictwo i cyfrowe archiwum. Poznaj projekt." width="48%"></a>&nbsp;&nbsp;<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-ai-bajka-v2.webp" alt="AI-Bajka — teatr, opowieść i interakcja. Poznaj projekt." width="48%"></a>
+</p>
 
 <p align="center">
   <a href="https://www.tech4good.pl/pl#projects"><strong>Więcej realizacji i referencji na naszej stronie ↗</strong></a>
@@ -55,22 +55,28 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Jak pracujemy
 
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/working-together-mobile.svg">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/working-together.svg" alt="Jak pracujemy: 1. Rozmowa — poznajemy misję, ludzi i potrzeby. 2. Plan — zakres, budżet i finansowanie. 3. Wdrożenie — narzędzia i szkolenia zespołu. 4. Rozwój — utrzymanie, automatyzacja i analiza efektów." width="100%">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-discover-v2.webp" alt="01. Rozmowa — poznajemy ludzi, misję i potrzeby organizacji." width="48%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-plan-v2.webp" alt="02. Plan — ustalamy zakres, budżet i finansowanie." width="48%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-build-v2.webp" alt="03. Wdrożenie — budujemy narzędzia i uczymy zespół." width="48%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-grow-v2.webp" alt="04. Rozwój — wspieramy utrzymanie i kolejne kroki." width="48%">
 </p>
 
 <a id="technologie"></a>
 
 ## Nasz warsztat
 
-<p>
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/technology-workshop-mobile.svg">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/technology-workshop.svg" alt="Narzędzia dobrane do misji: React, Next.js, TypeScript, React Native, Expo, Node.js, Supabase, PostgreSQL i Python. Integracje i IoT: Arduino, ESP32, API i MQTT." width="100%">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-react-v2.webp" alt="React" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-nextjs-v2.webp" alt="Next.js" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-typescript-v2.webp" alt="TypeScript" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-react-native-v2.webp" alt="React Native" width="22.5%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-expo-v2.webp" alt="Expo" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-nodejs-v2.webp" alt="Node.js" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-supabase-v2.webp" alt="Supabase" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-postgresql-v2.webp" alt="PostgreSQL" width="22.5%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-python-v2.webp" alt="Python" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-arduino-v2.webp" alt="Arduino" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-esp32-v2.webp" alt="ESP32" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-api-mqtt-v2.webp" alt="API / MQTT" width="22.5%">
 </p>
 
 Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także z narzędzi open source oraz rozwiązań low-code i no-code. W projektowaniu uwzględniamy dostępność, prostotę obsługi i późniejsze utrzymanie.
