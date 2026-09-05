@@ -41,36 +41,13 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Od idei do działających projektów
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Platforma SWT</h3>
-      <p>Publiczna strona stowarzyszenia i przestrzeń pracy zespołu: granty, projekty, zadania, marketing oraz rozliczenia.</p>
-      <p><strong>Organizacja · Współpraca · Automatyzacja</strong></p>
-      <a href="https://www.stowarzyszenieswt.pl">Zobacz platformę →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Platforma edukacyjna MRM</h3>
-      <p>Aplikacja dla młodzieżowych rad wspierająca prowadzenie projektów, planowanie budżetów i pracę zespołową.</p>
-      <p><strong>Edukacja · Młodzież · Samorządność</strong></p>
-      <a href="https://www.tech4good.pl/pl#projects">Poznaj projekt →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Śląskie Ślady</h3>
-      <p>Cyfrowe archiwum dziedzictwa Śląska: zdjęcia, dokumenty, nagrania, interaktywna mapa i obiekty 3D.</p>
-      <p><strong>Dziedzictwo · Dostęp · Pamięć</strong></p>
-      <a href="https://www.tech4good.pl/pl#projects">Poznaj projekt →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI-Bajka</h3>
-      <p>Interaktywny narrator spektaklu dla dzieci. Aplikacja AI z osobowością osadzoną w świecie przedstawienia.</p>
-      <p><strong>Teatr · AI · Interakcja</strong></p>
-      <a href="https://www.tech4good.pl/pl#projects">Poznaj projekt →</a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.stowarzyszenieswt.pl"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-swt.svg" alt="Platforma SWT — zadania, granty, projekty, marketing i rozliczenia." width="100%"></a>
+
+<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-mrm.svg" alt="Edukacja MRM — nauka, projekty, budżety i współpraca młodzieżowych rad." width="100%"></a>
+
+<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-slaskie-slady.svg" alt="Śląskie Ślady — cyfrowe archiwum, mapa, zdjęcia, dokumenty i multimedia." width="100%"></a>
+
+<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka.svg" alt="AI-Bajka — interaktywny narrator AI w spektaklu dla dzieci." width="100%"></a>
 
 <p align="center">
   <a href="https://www.tech4good.pl/pl#projects"><strong>Więcej realizacji i referencji na naszej stronie ↗</strong></a>
@@ -78,26 +55,39 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Jak pracujemy
 
-**01 / Rozumiemy potrzeby**<br>
-Zaczynamy od misji organizacji, rozmowy z zespołem i procesów, które wymagają wsparcia.
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-discover.png" width="72" height="72" align="left" alt="">
+  <strong>01 / Rozumiemy potrzeby</strong><br>
+  Zaczynamy od misji organizacji, rozmowy z zespołem i procesów, które wymagają wsparcia.
+</p>
+<br clear="all">
 
-**02 / Układamy projekt i finansowanie**<br>
-Dobieramy zakres, narzędzia oraz budżet. Wspieramy przygotowanie projektu grantowego.
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-plan.png" width="72" height="72" align="left" alt="">
+  <strong>02 / Układamy projekt i finansowanie</strong><br>
+  Dobieramy zakres, narzędzia oraz budżet. Wspieramy przygotowanie projektu grantowego.
+</p>
+<br clear="all">
 
-**03 / Projektujemy i wdrażamy**<br>
-Budujemy rozwiązanie, integrujemy je z pracą organizacji i szkolimy zespół.
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-build.png" width="72" height="72" align="left" alt="">
+  <strong>03 / Projektujemy i wdrażamy</strong><br>
+  Budujemy rozwiązanie, integrujemy je z pracą organizacji i szkolimy zespół.
+</p>
+<br clear="all">
 
-**04 / Wspieramy dalszy rozwój**<br>
-Pomagamy utrzymać narzędzia, automatyzować procesy i analizować rezultaty.
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-grow.png" width="72" height="72" align="left" alt="">
+  <strong>04 / Wspieramy dalszy rozwój</strong><br>
+  Pomagamy utrzymać narzędzia, automatyzować procesy i analizować rezultaty.
+</p>
+<br clear="all">
 
 <a id="technologie"></a>
 
 ## Nasz warsztat
 
-| Web | Mobile | Dane i backend | Integracje i urządzenia |
-| --- | --- | --- | --- |
-| React · Next.js | React Native · Expo | Supabase · PostgreSQL | API · Python |
-| TypeScript | iOS · Android | Node.js | ESP32 · Arduino · MQTT |
+<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/technology-stack.svg" alt="Web: React, Next.js, TypeScript. Mobile: React Native, Expo, iOS i Android. Backend: Supabase, PostgreSQL, Node.js. Integracje i IoT: Python, Arduino, API, MQTT, ESP32." width="100%">
 
 Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także z narzędzi open source oraz rozwiązań low-code i no-code. W projektowaniu uwzględniamy dostępność, prostotę obsługi i późniejsze utrzymanie.
 
