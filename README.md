@@ -67,25 +67,28 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Jak pracujemy
 
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/01.svg" alt="Etap 1:" width="28" height="20"> &nbsp;<strong>Rozmowa</strong><br>
-  Poznajemy misję, zespół i potrzeby Twojej organizacji.
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/02.svg" alt="Etap 2:" width="28" height="20"> &nbsp;<strong>Plan</strong><br>
-  Ustalamy zakres, budżet, harmonogram i możliwości finansowania.
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/03.svg" alt="Etap 3:" width="28" height="20"> &nbsp;<strong>Wdrożenie</strong><br>
-  Projektujemy, budujemy i wdrażamy narzędzia. Szkolimy zespół.
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/04.svg" alt="Etap 4:" width="28" height="20"> &nbsp;<strong>Rozwój</strong><br>
-  Utrzymujemy rozwiązanie, automatyzujemy pracę i sprawdzamy rezultaty.
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/01.svg" alt="Etap 1:" width="28" height="20"> &nbsp;<strong>Rozmowa</strong></p>
+      <p>Poznajemy misję, zespół i potrzeby organizacji.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/02.svg" alt="Etap 2:" width="28" height="20"> &nbsp;<strong>Plan</strong></p>
+      <p>Łączymy zakres, budżet i terminy z finansowaniem.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/03.svg" alt="Etap 3:" width="28" height="20"> &nbsp;<strong>Wdrożenie</strong></p>
+      <p>Budujemy narzędzia i uczymy zespół z nich korzystać.</p>
+    </td>
+    <td width="50%" valign="top">
+      <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/04.svg" alt="Etap 4:" width="28" height="20"> &nbsp;<strong>Rozwój</strong></p>
+      <p>Dbamy o narzędzia, automatyzację i rezultaty.</p>
+    </td>
+  </tr>
+</table>
 
 <a id="technologie"></a>
 
