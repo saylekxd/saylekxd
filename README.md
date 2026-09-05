@@ -161,6 +161,6 @@ Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także 
 
 <p align="center">
   <a href="https://www.tech4good.pl">
-    <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech4good-footer.png" alt="tech4good — Technologia, która wspiera ludzi. NGO · Edukacja · Kultura. Rybnik, ul. Wiejska 1C. Odwiedź tech4good.pl." width="100%">
+    <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech4good-footer-slim.svg" alt="tech4good — Technologia, która wspiera ludzi. NGO · Edukacja · Kultura. Rybnik, ul. Wiejska 1C. Odwiedź tech4good.pl." width="100%">
   </a>
 </p>

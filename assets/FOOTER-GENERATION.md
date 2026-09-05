@@ -1,18 +1,16 @@
-# Profile footer banner
+# Slim profile footer
 
-Created with the built-in ImageGen tool on 2026-09-05.
-Output: `tech4good-footer.png` (2172 × 724).
-Style reference: `tech4good-banner.png`, the accepted profile header.
+Created with built-in ImageGen on 2026-09-05 using `tech4good-banner.png` as a style reference.
+Output: `tech4good-footer-slim.svg` (1920 × 312), an SVG viewport containing the unmodified generated bitmap. The viewport excludes the white padding produced around the artwork.
 
 ## Prompt
 
 Use case: ads-marketing.
-Create a NEW closing footer banner for the tech4good GitHub profile. Input image is a STYLE REFERENCE ONLY, the accepted top banner. Match its warm ivory tactile paper, near-black Swiss editorial sans serif typography, cobalt blue sculptural ribbon, fine halftone and archival collage. This is a restrained companion/footer, not a second loud hero.
-Canvas wide horizontal 3:1. Left 65%: beautiful compact editorial type hierarchy with plenty of space, large bold tech4good wordmark, readable supporting text. Right 30%: smaller tasteful still-life of folded cream paper, a cobalt looping bridge, a translucent panel and a fragment of archival book, matching the reference. Keep all artwork away from the text. Sharp rectangular outer corners, full bleed cream background.
-Include ONLY this exact Polish text, with correct diacritics, each line intact:
-"tech4good"
-"Technologia, która wspiera ludzi."
-"NGO · Edukacja · Kultura"
-"Rybnik, ul. Wiejska 1C"
+Create a NEW very slim horizontal footer banner for tech4good, using the input image ONLY as style reference for warm cream paper, cobalt, black typography and tactile halftone editorial collage. The reference is a top hero; this must instead look like a discreet closing signature at the BOTTOM of a page.
+Requested canvas aspect ratio 6:1, ideally 2400 by 400. Very wide, shallow. Centered composition, no giant wordmark, no left-aligned hero layout. All text is centered in the middle 70% of the strip, with restrained balanced hierarchy and tight vertical spacing. Text remains large enough to read at 960px display width.
+Exact text, in three centered lines:
+"tech4good · Technologia, która wspiera ludzi."
+"NGO · Edukacja · Kultura   /   Rybnik, ul. Wiejska 1C"
 "tech4good.pl"
-Make tech4good.pl a prominent cobalt final text line, not a tiny footnote. Make address and categories comfortably readable, avoid excessive spacing between these lines. All text must fit within left area with generous margins. No additional text, no people, no mock interface, no watermark, no rounded cards. Refined minimal composition consistent with reference.
+First line bold near-black, second line regular near-black, third line cobalt medium bold. Respect all Polish diacritics. No extra text.
+NEW decorative motif unlike the reference: at extreme left and right only, abstract cropped folded paper tabs, a fine cobalt horizontal paper ribbon, a restrained halftone semicircle and subtle black archival print textures. Flat editorial collage with very shallow shadows, lots of clean cream space in the center. No books, no sculptural bridge, no glass panel, no repetition of the hero objects. Decorations should feel like small corner accents and never interfere with words. Sharp rectangular edges, premium minimalist closing stationery strip, no border, no watermark. The overall banner must be much narrower in height than a hero.
