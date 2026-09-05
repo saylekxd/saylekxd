@@ -41,13 +41,25 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Od idei do działających projektów
 
-<a href="https://www.stowarzyszenieswt.pl"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-swt.svg" alt="Platforma SWT — zadania, granty i rozliczenia." width="100%"></a>
+<a href="https://www.stowarzyszenieswt.pl"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-swt-slim-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-swt-slim.svg" alt="Platforma SWT — zadania, granty i rozliczenia. Fragment interfejsu projektu." width="100%">
+</picture></a>
 
-<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-mrm.svg" alt="Edukacja MRM — nauka, projekty i współpraca." width="100%"></a>
+<a href="https://www.tech4good.pl/pl#projects"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-mrm-slim-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-mrm-slim.svg" alt="Edukacja MRM — nauka, projekty i współpraca. Fragment interfejsu projektu." width="100%">
+</picture></a>
 
-<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-slaskie-slady.svg" alt="Śląskie Ślady — archiwum, mapa i multimedia." width="100%"></a>
+<a href="https://www.tech4good.pl/pl#projects"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-slaskie-slady-slim-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-slaskie-slady-slim.svg" alt="Śląskie Ślady — archiwum, mapa i multimedia. Fragment interfejsu projektu." width="100%">
+</picture></a>
 
-<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka.svg" alt="AI-Bajka — teatr, AI i interakcja." width="100%"></a>
+<a href="https://www.tech4good.pl/pl#projects"><picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka-slim-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka-slim.svg" alt="AI-Bajka — teatr, AI i interakcja. Fragment interfejsu projektu." width="100%">
+</picture></a>
 
 <p align="center">
   <a href="https://www.tech4good.pl/pl#projects"><strong>Więcej realizacji i referencji na naszej stronie ↗</strong></a>
@@ -58,22 +70,26 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · Rozmowa</h3>
-      <p>Poznajemy misję organizacji, jej zespół i potrzeby. Ustalamy, co warto usprawnić.</p>
+      <p>01 / ROZMOWA</p>
+      <p><strong>Najpierw poznajemy potrzeby.</strong></p>
+      <p>Rozmawiamy o misji, zespole i procesach, które chcesz usprawnić.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · Plan</h3>
-      <p>Układamy zakres, budżet i harmonogram. Wspieramy wybór finansowania.</p>
+      <p>02 / PLAN</p>
+      <p><strong>Ustalamy, co i jak zbudować.</strong></p>
+      <p>Łączymy zakres, budżet i harmonogram z możliwościami finansowania.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Wdrożenie</h3>
-      <p>Projektujemy i budujemy narzędzia. Wdrażamy je w organizacji i szkolimy zespół.</p>
+      <p>03 / WDROŻENIE</p>
+      <p><strong>Oddajemy narzędzia w ręce zespołu.</strong></p>
+      <p>Projektujemy, budujemy i wdrażamy rozwiązanie. Szkolimy użytkowników.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · Rozwój</h3>
-      <p>Pomagamy w utrzymaniu, automatyzacji procesów i ocenie rezultatów.</p>
+      <p>04 / ROZWÓJ</p>
+      <p><strong>Wspieramy kolejne kroki.</strong></p>
+      <p>Pomagamy utrzymać narzędzia, automatyzować pracę i oceniać rezultaty.</p>
     </td>
   </tr>
 </table>
@@ -120,20 +136,25 @@ Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także 
 
 <a id="kontakt"></a>
 
-## Masz pomysł na coś dobrego?
+<p align="center"><sub>KONSULTACJA · FINANSOWANIE · WDROŻENIE</sub></p>
 
-Opowiedz nam, komu ma służyć projekt i co dziś utrudnia działanie. Wspólnie ustalimy, od czego zacząć — od konsultacji, wsparcia grantowego czy budowy aplikacji.
+<h2 align="center">Masz pomysł na coś dobrego?</h2>
 
-<p>
-  <a href="https://www.tech4good.pl/pl#contact"><strong>Porozmawiajmy o współpracy →</strong></a>
-</p>
-
-<p>
-  Rybnik, ul. Wiejska 1C · Współpraca z NGO, edukacją i kulturą
+<p align="center">
+  <strong>Zacznijmy od rozmowy.</strong><br>
+  Opowiedz, komu ma służyć projekt i co chcesz zmienić.<br>
+  Wspólnie ustalimy zakres, możliwości finansowania i pierwszy krok.
 </p>
 
 <p align="center">
-  <strong>tech4good</strong><br>
-  Digital innovation for NGOs, education and culture.<br>
-  <a href="https://www.tech4good.pl">www.tech4good.pl</a>
+  <a href="https://www.tech4good.pl/pl#contact"><strong>Porozmawiajmy o Twoim projekcie →</strong></a><br>
+  <a href="mailto:tech4goodpl@gmail.com">tech4goodpl@gmail.com</a>
+</p>
+
+---
+
+<p align="center">
+  <strong>tech4good</strong> · Technologia, która wspiera ludzi.<br>
+  NGO · Edukacja · Kultura &nbsp; / &nbsp; Rybnik, ul. Wiejska 1C<br>
+  <a href="https://www.tech4good.pl">tech4good.pl</a>
 </p>
