@@ -74,29 +74,47 @@ def icon(slug, x, y, color):
     paths = ''.join(re.findall(r'<path[^>]+>', path.read_text()))
     return f'<g transform="translate({x} {y}) scale(1.4)" fill="{color}">{paths}</g>'
 
-rows = [
-('01', 'WEB', 'Interfejsy i aplikacje', [('react','React','#087e9b'),('nextdotjs','Next.js',INK),('typescript','TypeScript','#2766a8')]),
-('02', 'MOBILE', 'Aplikacje iOS / Android', [('react','React Native','#087e9b'),('expo','Expo',INK),(None,'iOS / Android',INK)]),
-('03', 'BACKEND', 'Dane i logika aplikacji', [('supabase','Supabase','#18794e'),('postgresql','PostgreSQL','#336791'),('nodedotjs','Node.js','#397b2b')]),
-('04', 'INTEGRACJE', 'IoT / ESP32 / automatyzacje', [('python','Python','#306998'),('arduino','Arduino','#007b80'),(None,'API / MQTT',INK)])]
-body = ''
-for i,(num,label,sub,techs) in enumerate(rows):
-    y=i*126
-    if i%2: body+=f'<rect y="{y}" width="960" height="126" fill="#ebe8df"/>'
-    body+=f'<text x="30" y="{y+39}" fill="{BLUE}" font-size="14" font-weight="700">{num}</text><text x="65" y="{y+42}" fill="{INK}" font-size="22" font-weight="700" letter-spacing="1">{label}</text><text x="65" y="{y+75}" fill="#50585c" font-size="18">{sub}</text>'
-    for j,(slug,name,color) in enumerate(techs):
-        x=324+j*207
-        body+=f'<rect x="{x}" y="{y+24}" width="190" height="78" rx="12" fill="#fffdf8" stroke="#d6d2c9"/>'
-        if slug: body+=icon(slug,x+14,y+45,color)
-        else: body+=f'<text x="{x+13}" y="{y+70}" font-size="26" fill="{BLUE}" font-weight="700">↔</text>'
-        body+=f'<text x="{x+60}" y="{y+70}" font-size="18" font-weight="700" fill="{INK}">{name}</text>'
-svg('technology-stack.svg','Technologie: Web — React, Next.js, TypeScript. Mobile — React Native, Expo. Backend — Supabase, PostgreSQL, Node.js. Integracje i IoT — Python, Arduino, API, MQTT.',body,504)
 
-process_icons = {
-'discover': '<path d="M17 24h76v51H52L32 91V75H17Z" fill="#f5f1e8" stroke="#9ca9e6" stroke-width="2"/><path d="M48 49h64v45H93l-17 15V94H48Z" fill="#244bdb"/><g fill="#fffdf7"><circle cx="65" cy="71" r="4"/><circle cx="81" cy="71" r="4"/><circle cx="97" cy="71" r="4"/></g>',
-'plan': '<path d="M30 16h61l17 17v78H30Z" fill="#f5f1e8" stroke="#9ca9e6" stroke-width="2"/><path d="M91 16v19h17" fill="#c6cfef"/><g stroke="#8695c2" stroke-width="3"><path d="M44 46h46M44 60h33M44 74h39"/></g><circle cx="36" cy="92" r="24" fill="#244bdb"/><path d="m26 92 7 7 14-16" stroke="#fffdf7" stroke-width="4" fill="none"/>',
-'build': '<rect x="15" y="23" width="98" height="72" rx="9" fill="#f5f1e8" stroke="#9ca9e6" stroke-width="2"/><path d="M15 43h98" stroke="#9ca9e6" stroke-width="2"/><circle cx="26" cy="33" r="3" fill="#244bdb"/><path d="m47 54-12 13 12 13m34-26 12 13-12 13M68 53l-9 29" stroke="#244bdb" stroke-width="5" fill="none"/><path d="M41 108h47" stroke="#9ca9e6" stroke-width="6"/><circle cx="103" cy="97" r="18" fill="#244bdb"/><path d="m95 97 6 6 10-13" stroke="white" stroke-width="3" fill="none"/>',
-'grow': '<rect x="20" y="78" width="22" height="31" rx="4" fill="#f5f1e8" stroke="#9ca9e6" stroke-width="2"/><rect x="53" y="57" width="22" height="52" rx="4" fill="#c6cfef"/><rect x="86" y="32" width="22" height="77" rx="4" fill="#244bdb"/><path d="M22 57 54 34 68 39 95 13m-21 0h21v21" fill="none" stroke="#6888ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>'
-}
-for name, shapes in process_icons.items():
-    (ASSETS / f'process-{name}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">{shapes}</svg>')
+# Editorial panels share the project cards' palette and typography.
+def text(x,y,value,size=24,color=INK,weight=400,extra=''):
+    return f'<text x="{x}" y="{y}" font-size="{size}" fill="{color}" font-weight="{weight}" {extra}>{escape(value)}</text>'
+
+def panel(name,title,body,width,height):
+    (ASSETS/name).write_text(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title"><title id="title">{escape(title)}</title><defs><pattern id="grain" width="8" height="8" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".6" fill="#141819" opacity=".1"/></pattern><clipPath id="frame"><rect width="{width}" height="{height}" rx="20"/></clipPath></defs><g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif"><rect width="{width}" height="{height}" fill="{CREAM}"/>{body}</g></svg>')
+
+steps=[('01','Rozmowa',['Poznajemy misję, ludzi','i potrzeby organizacji.'],'Diagnoza / kierunek'),('02','Plan',['Łączymy zakres, budżet','i możliwości finansowania.'],'Strategia / granty'),('03','Wdrożenie',['Budujemy narzędzia.','Przygotowujemy zespół.'],'Produkt / szkolenia'),('04','Rozwój',['Utrzymanie, automatyzacja','i analiza efektów.'],'Wsparcie / rezultaty')]
+for mobile in [False,True]:
+    w,h=(480,1010) if mobile else (960,600)
+    body=text(36,45,'OD PIERWSZEJ ROZMOWY DO DALSZEGO ROZWOJU',12,BLUE,700,'letter-spacing="1.1"')
+    body+=text(34,98,'Wspólnie. Krok po kroku.',32 if mobile else 42,INK,700,'letter-spacing="-1"')
+    for i,(num,title,lines,tag) in enumerate(steps):
+        x,y=(36,160+i*215) if mobile else (36+(i%2)*472,168+(i//2)*225)
+        body+=f'<path d="M{x} {y-32}h{408 if mobile else 416}" stroke="#ccc8bf"/>'
+        body+=text(x,y+33,num,64,BLUE,700,'letter-spacing="-4"')
+        body+=text(x+100,y+9,title,34,INK,700)
+        for j,line in enumerate(lines):body+=text(x+100,y+47+j*29,line,20 if mobile else 22,'#40464a')
+        body+=text(x+100,y+124,tag.upper(),12,BLUE,700,'letter-spacing="1.1"')
+    panel('working-together'+('-mobile' if mobile else '')+'.svg','Jak pracujemy: rozmowa i diagnoza potrzeb; plan projektu i finansowania; wdrożenie oraz szkolenia; rozwój, utrzymanie i analiza efektów.',body,w,h)
+
+techs=[('react','React'),('nextdotjs','Next.js'),('typescript','TypeScript'),('react','React Native'),('expo','Expo'),('nodedotjs','Node.js'),('supabase','Supabase'),('postgresql','PostgreSQL'),('python','Python')]
+for mobile in [False,True]:
+    w,h=(480,740) if mobile else (960,470)
+    split=260 if mobile else 355
+    body=f'<rect width="{w if mobile else split}" height="{split if mobile else h}" fill="{BLUE}"/>'
+    body+=text(34,43,'NASZ WARSZTAT / TECH4GOOD',13,CREAM,700,'letter-spacing="1.3"')
+    body+=text(32,106,'Narzędzia',44,CREAM,700,'letter-spacing="-1"')+text(32,158,'dobrane do misji.',34 if mobile else 32,CREAM,700,'letter-spacing="-1"')
+    for j,line in enumerate(['Web / Mobile','Dane / Automatyzacje']):body+=text(35,(202 if mobile else 239)+j*31,line,20,CREAM)
+    if not mobile:
+        body+='<path d="M36 331h278" stroke="#8b9fec"/>'
+        body+=text(35,370,'OD INTERFEJSU',12,CREAM,700,'letter-spacing="2"')+text(35,394,'PO INTEGRACJE.',12,CREAM,700,'letter-spacing="2"')
+    for i,(slug,label) in enumerate(techs):
+        x=(80+(i%3)*160) if mobile else (456+(i%3)*192)
+        y=(298+(i//3)*120) if mobile else (55+(i//3)*115)
+        body+=icon(slug,x-17,y,INK)
+        body+=text(x,y+64,label,17 if mobile else 18,INK,500,'text-anchor="middle"')
+    yy=668 if mobile else 392
+    xx=25 if mobile else 390
+    body+=f'<path d="M{xx} {yy}H{w-30}" stroke="#ccc8bf"/>'
+    body+=text(xx,yy+31,'TAKŻE W NASZYM ZESTAWIE',11,BLUE,700,'letter-spacing="1.4"')
+    body+=text(xx,yy+57,'Arduino / ESP32 / API / MQTT',17,INK)
+    panel('technology-workshop'+('-mobile' if mobile else '')+'.svg','Technologie: React, Next.js, TypeScript, React Native, Expo, Node.js, Supabase, PostgreSQL, Python. Także Arduino, ESP32, API i MQTT.',body,w,h)

@@ -56,38 +56,22 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 ## Jak pracujemy
 
 <p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-discover.png" width="72" height="72" align="left" alt="">
-  <strong>01 / Rozumiemy potrzeby</strong><br>
-  Zaczynamy od misji organizacji, rozmowy z zespołem i procesów, które wymagają wsparcia.
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/working-together-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/working-together.svg" alt="Jak pracujemy: 1. Rozmowa — poznajemy misję, ludzi i potrzeby. 2. Plan — zakres, budżet i finansowanie. 3. Wdrożenie — narzędzia i szkolenia zespołu. 4. Rozwój — utrzymanie, automatyzacja i analiza efektów." width="100%">
+</picture>
 </p>
-<br clear="all">
-
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-plan.png" width="72" height="72" align="left" alt="">
-  <strong>02 / Układamy projekt i finansowanie</strong><br>
-  Dobieramy zakres, narzędzia oraz budżet. Wspieramy przygotowanie projektu grantowego.
-</p>
-<br clear="all">
-
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-build.png" width="72" height="72" align="left" alt="">
-  <strong>03 / Projektujemy i wdrażamy</strong><br>
-  Budujemy rozwiązanie, integrujemy je z pracą organizacji i szkolimy zespół.
-</p>
-<br clear="all">
-
-<p>
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process-grow.png" width="72" height="72" align="left" alt="">
-  <strong>04 / Wspieramy dalszy rozwój</strong><br>
-  Pomagamy utrzymać narzędzia, automatyzować procesy i analizować rezultaty.
-</p>
-<br clear="all">
 
 <a id="technologie"></a>
 
 ## Nasz warsztat
 
-<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/technology-stack.svg" alt="Web: React, Next.js, TypeScript. Mobile: React Native, Expo, iOS i Android. Backend: Supabase, PostgreSQL, Node.js. Integracje i IoT: Python, Arduino, API, MQTT, ESP32." width="100%">
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/technology-workshop-mobile.svg">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/technology-workshop.svg" alt="Narzędzia dobrane do misji: React, Next.js, TypeScript, React Native, Expo, Node.js, Supabase, PostgreSQL i Python. Integracje i IoT: Arduino, ESP32, API i MQTT." width="100%">
+</picture>
+</p>
 
 Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także z narzędzi open source oraz rozwiązań low-code i no-code. W projektowaniu uwzględniamy dostępność, prostotę obsługi i późniejsze utrzymanie.
 
