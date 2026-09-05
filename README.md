@@ -41,13 +41,13 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Od idei do działających projektów
 
-<p align="center">
-  <a href="https://www.stowarzyszenieswt.pl"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-swt-v2.webp" alt="Platforma SWT — projekty, granty i praca zespołu. Zobacz platformę." width="48%"></a>&nbsp;&nbsp;<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-mrm-v2.webp" alt="Edukacja MRM — młodzież, wiedza i współpraca. Poznaj projekt." width="48%"></a>
-</p>
+<a href="https://www.stowarzyszenieswt.pl"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-swt.svg" alt="Platforma SWT — zadania, granty i rozliczenia." width="100%"></a>
 
-<p align="center">
-  <a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-slaskie-slady-v2.webp" alt="Śląskie Ślady — dziedzictwo i cyfrowe archiwum. Poznaj projekt." width="48%"></a>&nbsp;&nbsp;<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/project-ai-bajka-v2.webp" alt="AI-Bajka — teatr, opowieść i interakcja. Poznaj projekt." width="48%"></a>
-</p>
+<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-mrm.svg" alt="Edukacja MRM — nauka, projekty i współpraca." width="100%"></a>
+
+<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-slaskie-slady.svg" alt="Śląskie Ślady — archiwum, mapa i multimedia." width="100%"></a>
+
+<a href="https://www.tech4good.pl/pl#projects"><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/project-ai-bajka.svg" alt="AI-Bajka — teatr, AI i interakcja." width="100%"></a>
 
 <p align="center">
   <a href="https://www.tech4good.pl/pl#projects"><strong>Więcej realizacji i referencji na naszej stronie ↗</strong></a>
@@ -55,28 +55,63 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 ## Jak pracujemy
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-discover-v2.webp" alt="01. Rozmowa — poznajemy ludzi, misję i potrzeby organizacji." width="48%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-plan-v2.webp" alt="02. Plan — ustalamy zakres, budżet i finansowanie." width="48%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-build-v2.webp" alt="03. Wdrożenie — budujemy narzędzia i uczymy zespół." width="48%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/process-grow-v2.webp" alt="04. Rozwój — wspieramy utrzymanie i kolejne kroki." width="48%">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Rozmowa</h3>
+      <p>Poznajemy misję organizacji, jej zespół i potrzeby. Ustalamy, co warto usprawnić.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · Plan</h3>
+      <p>Układamy zakres, budżet i harmonogram. Wspieramy wybór finansowania.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 · Wdrożenie</h3>
+      <p>Projektujemy i budujemy narzędzia. Wdrażamy je w organizacji i szkolimy zespół.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 · Rozwój</h3>
+      <p>Pomagamy w utrzymaniu, automatyzacji procesów i ocenie rezultatów.</p>
+    </td>
+  </tr>
+</table>
 
 <a id="technologie"></a>
 
 ## Nasz warsztat
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-react-v2.webp" alt="React" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-nextjs-v2.webp" alt="Next.js" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-typescript-v2.webp" alt="TypeScript" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-react-native-v2.webp" alt="React Native" width="22.5%">
+#### Web
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/react.svg" alt="React" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/nextjs.svg" alt="Next.js" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/typescript.svg" alt="TypeScript" height="36">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-expo-v2.webp" alt="Expo" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-nodejs-v2.webp" alt="Node.js" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-supabase-v2.webp" alt="Supabase" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-postgresql-v2.webp" alt="PostgreSQL" width="22.5%">
+#### Mobile
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/react-native.svg" alt="React Native" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/expo.svg" alt="Expo" height="36">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-python-v2.webp" alt="Python" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-arduino-v2.webp" alt="Arduino" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-esp32-v2.webp" alt="ESP32" width="22.5%">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/cards/tech-api-mqtt-v2.webp" alt="API / MQTT" width="22.5%">
+#### Backend i dane
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/nodejs.svg" alt="Node.js" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/supabase.svg" alt="Supabase" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/postgresql.svg" alt="PostgreSQL" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/python.svg" alt="Python" height="36">
+</p>
+
+#### Integracje i IoT
+
+<p>
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/arduino.svg" alt="Arduino" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/esp32.svg" alt="ESP32" height="36">
+  <img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/tech/api-mqtt.svg" alt="API / MQTT" height="36">
 </p>
 
 Technologię dobieramy do potrzeb i możliwości organizacji. Korzystamy także z narzędzi open source oraz rozwiązań low-code i no-code. W projektowaniu uwzględniamy dostępność, prostotę obsługi i późniejsze utrzymanie.

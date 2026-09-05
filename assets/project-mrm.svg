@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title"><title id="title">Edukacja MRM. Pomysły młodych mają znaczenie. Nauka / projekty / współpraca. Poznaj projekt.</title><defs><pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#141819" opacity=".16"/></pattern><clipPath id="frame"><rect width="960" height="280" rx="20"/></clipPath></defs><g clip-path="url(#frame)" font-family="Arial, Helvetica, sans-serif"><rect width="960" height="280" fill="#f5f1e8"/><rect x="599" width="361" height="280" fill="#dfe5f6"/><rect x="599" y="15" width="345" height="251" fill="url(#dots)"/>
+<text x="36" y="43" font-size="15" font-weight="700" letter-spacing="2" fill="#244bdb">WYBRANE REALIZACJE / 02</text>
+<text x="34" y="104" font-size="43" font-weight="700" letter-spacing="-1" fill="#141819">Edukacja MRM</text>
+<text x="36" y="149" font-size="25" fill="#343b3e">Pomysły młodych mają znaczenie.</text>
+<text x="36" y="184" font-size="19" fill="#51585b">Nauka / projekty / współpraca</text>
+<path d="M36 210H560" stroke="#d3cfc6"/>
+<text x="36" y="249" font-size="20" font-weight="700" fill="#244bdb">Poznaj projekt</text><path d="M527 241h28m-9-9 9 9-9 9" stroke="#244bdb" stroke-width="2" fill="none"/>
+<rect x="654" y="38" width="202" height="208" rx="4" fill="#244bdb" transform="rotate(-9 755 140)"/>
+<path d="M643 75Q703 55 761 82Q824 55 886 75V212Q824 192 761 218Q703 193 643 212Z" fill="#fffdf7" stroke="#b9c3dc" stroke-width="2"/>
+<path d="M761 82V218" stroke="#b9c3dc" stroke-width="2"/>
+<g stroke="#bcc5dc" stroke-width="4"><path d="M663 136H733M663 150H718M663 164H733M787 157H864M787 171H848M787 185H864"/></g>
+<circle cx="699" cy="105" r="15" fill="#244bdb"/><path d="m817 100 13 22 25-4-16 20 9 23-25-9-20 16 4-25-21-13 25-5Z" fill="#cf9d39"/>
+<rect x="612" y="192" width="84" height="45" rx="22" fill="#141819"/><path d="M638 215h31m-10-10 10 10-10 10" stroke="white" stroke-width="3" fill="none"/>
+</g></svg>
