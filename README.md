@@ -69,23 +69,23 @@ Pomagamy zespołom NGO, instytucjom kultury i organizacjom edukacyjnym przekład
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/01.svg" alt="Etap 1:" width="28" height="20"> &nbsp;<strong>Rozmowa</strong></p>
-      <p>Poznajemy misję, zespół i potrzeby organizacji.</p>
+      <p>Poznajemy misję i zespół.<br>Określamy potrzeby organizacji.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/02.svg" alt="Etap 2:" width="28" height="20"> &nbsp;<strong>Plan</strong></p>
-      <p>Łączymy zakres, budżet i terminy z finansowaniem.</p>
+      <p>Ustalamy zakres i terminy.<br>Planujemy budżet i finansowanie.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/03.svg" alt="Etap 3:" width="28" height="20"> &nbsp;<strong>Wdrożenie</strong></p>
-      <p>Budujemy narzędzia i uczymy zespół z nich korzystać.</p>
+      <p>Budujemy i wdrażamy narzędzia.<br>Szkolimy Twój zespół.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="480" valign="top">
       <p><img src="https://raw.githubusercontent.com/tech4-company/tech4-company/main/assets/process/04.svg" alt="Etap 4:" width="28" height="20"> &nbsp;<strong>Rozwój</strong></p>
-      <p>Dbamy o narzędzia, automatyzację i rezultaty.</p>
+      <p>Dbamy o działanie narzędzi.<br>Rozwijamy je razem z zespołem.</p>
     </td>
   </tr>
 </table>
